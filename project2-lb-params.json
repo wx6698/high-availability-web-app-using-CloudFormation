@@ -1,0 +1,14 @@
+[
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "Project2"
+	},
+	{
+		"ParameterKey": "homeIp",
+		"ParameterValue": "71.202.169.96/32"
+	},
+	{
+		"ParameterKey": "myKey",
+		"ParameterValue": "jumpbox"
+	}
+]
